@@ -116,6 +116,7 @@ body{
 /* statstics section */
 .statistics {
     padding-top: 100px;
+    text-align: center;
 }
 
 .statistics__item {
@@ -139,4 +140,17 @@ body{
     color: #797979;
     font-weight: 300;
     margin-right: 20px
+}
+
+.footer-head {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    padding: 0 25px;
+}
+
+footer ul {
+    list-style: none;
 }
